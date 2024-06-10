@@ -1,0 +1,39 @@
+/* common css start  */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+a,a:hover{
+    text-decoration: none;
+}
+ul li{
+    list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+/* common css end  */
+.nav_bg{
+    background: #eaeaea;
+    padding: 10px 20px;
+    border-left: 6px solid red;
+}
+.mojib_img{
+    background: #81C784;
+    height: 600px;
+    text-align: center;
+    border-radius: 14px;
+}
+.count_part{
+    margin-top: 120px;
+}
+.counter_box{
+    background: red;
+    padding: 20px 0px;
+    border-radius: 20px;
+    vertical-align: middle;
+}
